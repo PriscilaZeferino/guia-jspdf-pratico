@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "nome": "Ana Silva",
+      "email": "ana.silva@example.com",
+      "dataCadastro": "2025-08-10",
+      "status": "Ativo"
+    },
+    {
+      "id": 2,
+      "nome": "Bruno Costa",
+      "email": "bruno.costa@example.com",
+      "dataCadastro": "2025-07-25",
+      "status": "Inativo"
+    },
+    {
+      "id": 3,
+      "nome": "Carla Souza",
+      "email": "carla.souza@example.com",
+      "dataCadastro": "2025-08-01",
+      "status": "Pendente"
+    }
+  ]
+  
